@@ -1,6 +1,6 @@
 aiohttp
 python-decouple
-pyaesni==0.14
+pyaes==1.6.1
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 requests
